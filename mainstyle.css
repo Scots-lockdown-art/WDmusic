@@ -10,12 +10,12 @@ header {
 
 
 .ham {
- margin-left:90px;
+ margin-right:30px;
 /* always keep ham on top of everything */
 z-index: 1000;	
 margin-top: 50px;
-width: 70px;
-height: 70px;
+width: 100px;
+height: 100px;
 border: none;
 cursor: pointer;
 /* show the menu image */
@@ -132,6 +132,7 @@ margin-top:auto;
 margin-bottom:auto;
 margin-left:50px;
 text-align:center;
+  
 }
 
 
