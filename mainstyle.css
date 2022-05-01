@@ -52,9 +52,10 @@ background:  white;
 width: 100%;	
 height: auto;	
 z-index:800;		
-margin-bottom:0px;
+margin-bottom:10px;
 border-radius:0px;
   text-align:center;
+  border-bottom: 4px solid black;
 
 /* hide the menu above the screen by default */
 transform: translateY(-170%);
