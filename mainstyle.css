@@ -19,7 +19,7 @@ height: 70px;
 border: none;
 cursor: pointer;
 /* show the menu image */
-background-image: url("/img/whiteballtrans.png");
+background-image: url("hamb.png");
 background-repeat:no-repeat;
 background-size:100% 100%;	
 position: fixed;
@@ -33,7 +33,7 @@ outline: none;
 }
 
 .showClose {
-background-image: url("/img/thelord.png");
+background-image: url("cross4.jpg");
 background-repeat:no-repeat;
 background-size:cover;	
 width: 70px;
