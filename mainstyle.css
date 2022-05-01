@@ -10,7 +10,6 @@ header {
 
 
 .ham {
- margin-right:0px;
 /* always keep ham on top of everything */
 z-index: 1000;	
 margin-top: 50px;
@@ -24,7 +23,6 @@ background-repeat:no-repeat;
 background-size:100% 100%;	
 position: fixed;
 padding-bottom:0px;
-padding-right:0px;
 border-radius: 50px;	
 }
 
@@ -39,8 +37,6 @@ background-size:cover;
 width: 70px;
 height: 70px;
 margin-top: 50px; 
-margin-left:90px;
-margin-right:0px;
 margin-bottom:0px;
 z-index:500;	
 position: fixed;
