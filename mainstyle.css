@@ -45,7 +45,7 @@ border-radius: 25px;
 
 .navbar {
 position:fixed;
-margin-top: 10rem;
+margin-top: 20px;
 background:  white;
     margin-left:0px;
 width: 100%;	
@@ -54,7 +54,7 @@ z-index:800;
 margin-bottom:10px;
 border-radius:0px;
   text-align:center;
-  border-bottom: 4px solid black;
+  border-bottom: 6px solid black;
 
 /* hide the menu above the screen by default */
 transform: translateY(-170%);
@@ -107,7 +107,7 @@ width:100%;
 margin-left:0px;
 margin-right:0px;
 background-color:white;
-border-bottom: 4px solid black;
+border-bottom: 6px solid black;
 justify-content:space-between;
 color:#1a1a1a;
 flex-wrap:nowrap;
