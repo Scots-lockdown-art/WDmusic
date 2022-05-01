@@ -53,7 +53,7 @@ position:fixed;
 margin-top: 10rem;
 background:  white;
     margin-left:0px;
-width: 95%;	
+width: 100%;	
 height: auto;	
 z-index:800;		
 margin-bottom:0px;
@@ -61,14 +61,14 @@ border-radius:0px;
   text-align:center;
 
 /* hide the menu above the screen by default */
-transform: translateY(-150%);
+transform: translateY(-170%);
 /* transition adds a little animation when sliding in and out the menu */
 transition: transform 0.2s ease;
 }
 
 .showNav {
 /* show the menu */
-transform: translateY(50%);
+transform: translateY(40%);
   
 }
 
