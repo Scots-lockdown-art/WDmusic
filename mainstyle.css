@@ -10,7 +10,7 @@ header {
 
 
 .ham {
- margin-right:30px;
+ margin-right:0px;
 /* always keep ham on top of everything */
 z-index: 1000;	
 margin-top: 50px;
