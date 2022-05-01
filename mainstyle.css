@@ -70,7 +70,7 @@ transition: transform 0.2s ease;
 
 .showNav {
 /* show the menu */
-transform: translateY(10%);
+transform: translateY(0%);
   
 }
 
