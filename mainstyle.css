@@ -66,6 +66,8 @@ transform: translateY(-170%);
 transition: transform 0.2s ease;
 }
 
+
+
 .showNav {
 /* show the menu */
 transform: translateY(40%);
@@ -76,7 +78,7 @@ transform: translateY(40%);
 margin-bottom:0px;
     margin-top:0px;
 padding-top:0px;
-margin-left:0px;
+margin-left:0px; 
 }
 
 .navbar li {
@@ -85,7 +87,7 @@ text-decoration:none;
 padding-bottom:10px;
 padding-top:10px;
 list-style-type: none;
-text-align:left;
+text-align:center;
 margin-left:0px;
 }
 
