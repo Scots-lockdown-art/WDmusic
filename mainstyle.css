@@ -68,7 +68,7 @@ transition: transform 0.2s ease;
 
 .showNav {
 /* show the menu */
-transform: translateY(50%), translateX(-70%);
+transform: translateY(50%);
   
 }
 
