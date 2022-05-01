@@ -37,7 +37,7 @@ width: 70px;
 height: 70px;
 margin-top: 50px; 
 margin-bottom:0px;
-z-index:500;	
+z-index:1500;	
 position: fixed;
 border-radius: 25px;
 }
@@ -50,7 +50,7 @@ background:  white;
     margin-left:0px;
 width: 100%;	
 height: auto;	
-z-index:800;		
+z-index:1500;		
 margin-bottom:10px;
 border-radius:0px;
   text-align:center;
